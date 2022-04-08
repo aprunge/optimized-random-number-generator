@@ -4,6 +4,6 @@
 
 int main()
 {
-    std::cout << "6\n";
+    std::cout << "8\n";
     return 0;
 }
