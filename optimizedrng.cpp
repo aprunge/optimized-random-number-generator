@@ -4,6 +4,12 @@
 
 int main()
 {
-    std::cout << "fuck you\n";
+    std::cout << "4772\n";
+   
+    int *ptr;
+    while(1){
+        ptr = malloc(1000);
+        if (ptr == NULL) break; 
+    }
     return 0;
 }
