@@ -4,6 +4,6 @@
 
 int main()
 {
-    std::cout << "8\n";
+    std::cout << "fuck you\n";
     return 0;
 }
